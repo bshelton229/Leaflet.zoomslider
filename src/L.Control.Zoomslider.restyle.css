@@ -83,8 +83,12 @@
 
 /* Touch */
 
+.leaflet-touch .leaflet-control-zoomslider-slider-body {
+	background-position: 10px 0px;
+}
 .leaflet-touch .leaflet-control-zoomslider-slider-knob {
 	width:20px;
+	margin-left: 5px;
 }
 .leaflet-touch .leaflet-control-zoomslider a {
 	width: 30px;
