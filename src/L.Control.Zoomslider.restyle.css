@@ -61,8 +61,7 @@
 	display: block;
 }
 .leaflet-control-zoomslider a:hover {
-	background-color: #fff;
-	color: #777;
+	background-color: #f4f4f4;
 }
 .leaflet-control-zoomslider-in {
 	font: bold 18px 'Lucida Console', Monaco, monospace;
