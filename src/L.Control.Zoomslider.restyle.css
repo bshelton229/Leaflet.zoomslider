@@ -24,7 +24,7 @@
 	border-radius: 2px;
 	border: 2px solid #444;
 	position:relative;
-	left: -8px;
+	margin-left: -8px;
 }
 
 .leaflet-control-zoomslider-slider-body:hover {
