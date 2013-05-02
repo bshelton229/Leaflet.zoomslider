@@ -9,7 +9,7 @@
 .leaflet-control-zoomslider-slider-body {
 	background-image: url(images/zoom-slider.png);
 	background-repeat: repeat-y;
-	background-position: 8px 0px;
+	background-position: 47% 0px;
 	height: 100%;
 	cursor: default;
 }
